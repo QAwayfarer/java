@@ -7,13 +7,10 @@ public class MyFirstProgramm {
     public static void main(String[] args) {
         hello("world");
         hello("Sementiago");
-        Square s = new Square();
-        s.l =5;
-
+        Square s = new Square(5);
         System.out.println("Площадь квадрата со стороной " + s.l + " равна = " + area(s));
-        Rectangle r = new Rectangle();
-        r.a = 10;
-        r.b = 12;
+
+        Rectangle r = new Rectangle(14.5,15);
         System.out.println("Площадь прямоугольника со сторонами " + r.a + " и " + r.b + " равна = " + area(r));
     }
 
