@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f44627a-6f05-4586-aab4-05fa0cd28b42" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/pack/sandbox/MyFirstProgramm.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/pack/sandbox/MyFirstProgramm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pack/sandbox/MyFirstProgramm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pack/sandbox/MyFirstProgramm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pack/sandbox/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pack/sandbox/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pack/sandbox/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pack/sandbox/Square.java" afterDir="false" />
