@@ -5,12 +5,14 @@ repositories {
 }
 
 dependencies {
-    implementation 'org.testng:testng:7.6.1'
     implementation 'org.seleniumhq.selenium:selenium-java:4.3.0'
-    implementation 'junit:junit:4.13.2'
+    implementation 'org.junit.jupiter:junit-jupiter-api:5.9.0-RC1'
+    implementation 'org.junit.jupiter:junit-jupiter-engine:5.9.0-RC1'
+    implementation 'org.junit.jupiter:junit-jupiter-params:5.9.0-RC1'
+    implementation 'org.junit.platform:junit-platform-suite:1.9.0-RC1'
     implementation 'org.slf4j:slf4j-parent:2.0.0-alpha7'
 }
 
 test {
-    useJUnit()
+    useJUnitPlatform()
 }
