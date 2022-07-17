@@ -1,0 +1,16 @@
+apply plugin: 'java'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.testng:testng:7.6.1'
+    implementation 'org.seleniumhq.selenium:selenium-java:4.3.0'
+    implementation 'junit:junit:4.13.2'
+    implementation 'org.slf4j:slf4j-parent:2.0.0-alpha7'
+}
+
+test {
+    useJUnit()
+}

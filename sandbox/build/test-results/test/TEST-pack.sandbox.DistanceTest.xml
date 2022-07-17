@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="pack.sandbox.DistanceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-17T06:28:58" hostname="DESKTOP-QSS9N9O" time="0.007">
+<testsuite name="pack.sandbox.DistanceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-17T08:50:29" hostname="DESKTOP-QSS9N9O" time="0.014">
   <properties/>
-  <testcase name="testDistance" classname="pack.sandbox.DistanceTest" time="0.007"/>
+  <testcase name="testDistance" classname="pack.sandbox.DistanceTest" time="0.014"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
