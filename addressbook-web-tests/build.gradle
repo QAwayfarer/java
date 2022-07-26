@@ -11,6 +11,7 @@ dependencies {
     implementation 'org.junit.jupiter:junit-jupiter-params:5.9.0-RC1'
     implementation 'org.junit.platform:junit-platform-suite:1.9.0-RC1'
     implementation 'org.slf4j:slf4j-parent:2.0.0-alpha7'
+    implementation 'junit:junit:4.13.1'
 }
 
 test {
