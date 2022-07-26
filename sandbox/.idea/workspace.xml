@@ -5,17 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f44627a-6f05-4586-aab4-05fa0cd28b42" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/classes/java/test/addressbook/test1ab.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/classes/java/test/addressbook/test2ab.class" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/classes/java/test/addressbook/test2ab.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/test/classes/addressbook.test2ab.html" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/test/classes/addressbook.test2ab.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/test/packages/addressbook.html" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/test/packages/addressbook.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/test/TEST-addressbook.test2ab.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/test/TEST-addressbook.test2ab.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/addressbook/test2ab.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/addressbook/test2ab.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/addressbook-web-tests.test.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -25,13 +25,6 @@ public class test2ab {
     driver = new ChromeDriver();
     js = (JavascriptExecutor) driver;
     vars = new HashMap<String, Object>();
-  }
-  @AfterEach
-  public void tearDown() {
-    driver.quit();
-  }
-  @Test
-  public void test1() {
     driver.get("http://localhost/addressbook/");
     driver.manage().window().setSize(new Dimension(1256, 1020));
     driver.findElement(By.name("user")).click();
@@ -39,6 +32,14 @@ public class test2ab {
     driver.findElement(By.name("user")).sendKeys("admin");
     driver.findElement(By.name("pass")).sendKeys("secret");
     driver.findElement(By.cssSelector("input:nth-child(7)")).click();
+  }
+  @AfterEach
+  public void tearDown() {
+    driver.quit();
+  }
+  @Test
+  public void test1() {
+
     driver.findElement(By.linkText("groups")).click();
     driver.findElement(By.name("new")).click();
     driver.findElement(By.name("group_name")).click();
